@@ -1,0 +1,6 @@
+{
+  "name": "Dayplanner",
+  "description": "An obsidian dark-mode daily agenda and to-do workspace with time blocks, priorities, categories, and live local temperature.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
